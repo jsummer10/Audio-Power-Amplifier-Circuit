@@ -1,0 +1,63 @@
+(ExpressProject "final_project"
+  (ProjectVersion "19981106")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\final_project.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (PartMRUSelector
+    (Q2N3906
+      (FullPartName "Q2N3906.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\EVAL.OLB")
+      (DeviceIndex "0"))
+    (POT
+      (FullPartName "POT.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\BREAKOUT.OLB")
+      (DeviceIndex "0"))
+    (D1N4001
+      (FullPartName "D1N4001.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\DIODE.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "jsummerville")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\Users\jsummerville\Desktop\Final Project\pspice\final_project.dsn")
+      (Path "Design Resources"
+         "C:\Users\jsummerville\Desktop\Final Project\pspice\final_project.dsn"
+         "Project_Schematic")
+      (Select "Design Resources"
+         "C:\Users\jsummerville\Desktop\Final Project\pspice\final_project.dsn"
+         "Project_Schematic" "project"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 628"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 234 1661 234 901")
+        (Scroll "-431 -9")
+        (Zoom "129")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\JSUMMERVILLE\DESKTOP\FINAL PROJECT\PSPICE\FINAL_PROJECT.DSN")
+      (Schematic "Project_Schematic")
+      (Page "project"))))
