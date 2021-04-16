@@ -13649,6 +13649,10 @@ W = angled&lt;p&gt;
 <wire x1="81.28" y1="93.98" x2="78.74" y2="93.98" width="0.1524" layer="91"/>
 <wire x1="78.74" y1="93.98" x2="78.74" y2="96.52" width="0.1524" layer="91"/>
 <junction x="78.74" y="96.52"/>
+<wire x1="78.74" y1="93.98" x2="78.74" y2="91.44" width="0.1524" layer="91"/>
+<junction x="78.74" y="93.98"/>
+<pinref part="9V_SPKR" gate="G$1" pin="4"/>
+<wire x1="78.74" y1="91.44" x2="81.28" y2="91.44" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="POWER" gate="A" pin="3"/>
