@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-04-16T14:43:57Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "project_schematic"
+        },
+        "Owner": "Jake Summerville <jsvikings97@gmail.com>",
+        "Size": {
+            "X": 60.94,
+            "Y": 59.36
+        }
+    }
+}
