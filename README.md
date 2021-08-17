@@ -34,6 +34,13 @@ Adafruit extension was used to create certain packages. Adafruit install instruc
   <img src="pcb/pcb_bottom.png" width="700">
 </p>
 
+
+## Completed Amplifier
+
+<p align="center">
+  <img src="final/soldered-board.jpeg" width="500">
+</p>
+
 ## Author
 
 - Jake Summerville
